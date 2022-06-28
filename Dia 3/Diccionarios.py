@@ -34,7 +34,6 @@ print(dic3)
 
 print(dic3.keys())
 print(dic3.values())
-
 print(dic3.items())
 
 mi_dic = {"nombre": "Karen", "apellido": "Jurgens", "edad": 35, "ocupacion": "Periodista"}
